@@ -1,5 +1,12 @@
 # DSCI100 Final Project
 
+
+## Introduction
+
+
+
+
+
 Introduction:
 Background: provide some relevant background information on the topic so that someone unfamiliar with it will be prepared to understand the rest of your report
 Question(s): clearly state the question you tried to answer with your project. Your question should involve one response variable of interest and one or more explanatory variables, and should be stated as a question. One common question format is: “Can [explanatory variable(s)] predict [response variable] in [dataset]?”, but you are free to format your question as you choose so long as it is clear.
