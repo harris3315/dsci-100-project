@@ -1,5 +1,1 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
-
-
-testing
+Project created by Nathan Harris and hosted on https://github.com/harris3315/dsci-100-project
